@@ -20,21 +20,30 @@
    * colors
    */
 
---cyan-dark-1: hsl(180, 100%, 15%);
-  --cyan-dark-2: hsl(185, 90%, 20%);
-  --cyan-dark-3: hsl(190, 80%, 25%);
-  --cyan-dark-4: hsl(195, 70%, 30%);
-  --cyan-medium: hsl(200, 60%, 40%);
-  --cyan-light-1: hsl(205, 70%, 55%);
-  --cyan-light-2: hsl(210, 80%, 70%);
-  --cyan-light-3: hsl(215, 90%, 85%);
-  --cyan-light-4: hsl(220, 100%, 95%);
-  --gray-light: hsl(0, 0%, 80%);
-  --gray-medium: hsl(0, 0%, 60%);
-  --gray-dark: hsl(0, 0%, 40%);
-  --white-transparent-15: hsla(0, 0%, 100%, 0.15);
-  --white-transparent-10: hsla(0, 0%, 100%, 0.1);
-
+ --rich-black-fogra-29_95: hsla(222, 18%, 11%, 0.95);
+  --raisin-black-1: hsl(0, 0%, 16%);
+  --raisin-black-2: hsl(236, 17%, 17%);
+  --raisin-black-3: hsl(280, 11%, 11%);
+  --raisin-black-4: hsl(280, 8%, 15%);
+  --english-violet: hsl(274, 21%, 23%);
+  --eerie-black-1: hsl(277, 25%, 10%);
+  --eerie-black-2: hsl(280, 7%, 8%);
+  --roman-silver: hsl(220, 6%, 59%);
+  --quick-silver: hsl(0, 1%, 65%);
+  --light-gray-1: hsl(0, 0%, 80%);
+  --light-gray-2: hsl(0, 2%, 82%);
+  --marigold_75: hsla(42, 99%, 46%, 0.75);
+  --xiketic_90: hsla(280, 37%, 8%, 0.9);
+  --cultured-2: hsl(0, 0%, 97%);
+  --marigold: hsl(42, 99%, 46%);
+  --platinum: hsl(0, 0%, 89%);
+  --dim-gray: hsl(0, 0%, 42%);
+  --white_15: hsla(0, 0%, 100%, 0.15);
+  --white_10: hsla(0, 0%, 100%, 0.1);
+  --xiketic: hsl(277, 25%, 10%);
+  --silver: hsl(0, 0%, 78%);
+  --white: hsl(0, 0%, 100%);
+  --jet: hsl(236, 13%, 23%);
   /**
    * typography
    */
